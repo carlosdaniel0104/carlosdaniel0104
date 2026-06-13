@@ -16,6 +16,15 @@
   <a href="http://lattes.cnpq.br/0778457326754157" target="_blank">
     <img src="https://img.shields.io/badge/Currículo_Lattes-00509E?style=for-the-badge&logoColor=white" alt="Lattes">
   </a>
+  <a href="https://www.researchgate.net/profile/Carlos-Barreto-Dos-Santos?ev=hdr_xprf" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate">
+  </a>
+  <a href="https://scholar.google.com/citations?user=MjM8gjEAAAAJ&hl=pt-BR" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <a href="https://www.youtube.com/@CarlosDaniel_MTBSE" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
 </p>
 
 ### 🛠 Tech Stack
@@ -29,7 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40" alt="LaTeX" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
 </p>
-## About me
+
+### About me
 
 I am an Electrical Engineer graduated from the Federal University of Sergipe (UFS), with a specialization in Power Systems (Eletrotécnica). Currently, I am expanding my expertise in Automotive Engineering as a scholar in the Technological Residency Program at CIn-UFPE, in partnership with Stellantis.
 
