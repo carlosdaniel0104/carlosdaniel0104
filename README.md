@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40" alt="LaTeX" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
 </p>
-### About me
+## About me
 
 I am an Electrical Engineer graduated from the Federal University of Sergipe (UFS), with a specialization in Power Systems (Eletrotécnica). Currently, I am expanding my expertise in Automotive Engineering as a scholar in the Technological Residency Program at CIn-UFPE, in partnership with Stellantis.
 
