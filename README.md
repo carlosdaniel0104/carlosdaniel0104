@@ -4,11 +4,17 @@
 - 👨‍💻 I’m interested in Electrical Power Systems, Control Systems, Automotive Engineering, Machine Learning, Energy Processing, Energy Transition, and more.
 
 <p align="center">
-  <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:carlosdanielelt@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="URL_DO_SEU_LINKEDIN" target="_blank">
+  <a href="mailto:carlosdaniel0104@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+  </a>
+  <a href="https://www.linkedin.com/in/carlosdanielbarreto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="http://lattes.cnpq.br/0778457326754157" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo_Lattes-00509E?style=for-the-badge&logoColor=white" alt="Lattes">
   </a>
 </p>
 
