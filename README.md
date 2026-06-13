@@ -59,12 +59,13 @@ Whether it is discussing Automotive Engineering, the Oil & Gas industry, or coll
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   <br><br>
-</div>
 
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100" style="margin-right: 15px;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZ1OHY1amZlbmJ6YW9jOG5hMGt2ZGl5M3NhZjZ6d3ZtMW43aG9hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HmwJlsfa3iIFzAyeSH/giphy.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTU5czdoeXRlajR6bzFveGc2MDZpZmFyNzdlY21qYTE2MWJydmZuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gty2oDYQ1fih2/giphy.gif" width="500">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZneHhqZjFneW5nNDN1eWdnOGR1OWtic3B6dTVwODczeHA4NDNzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/72HRT2AFHKp68/giphy.gif" width="500">
   <br><br>
 </div>
