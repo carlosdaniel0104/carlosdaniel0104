@@ -1,3 +1,4 @@
+ 
 <h1 align="center">Hi Stranger 👋, I'm Carlos Daniel!</h1>
 
 - 🎓 BSc. Electrical Engineering
@@ -48,3 +49,15 @@ My professional background includes practical experience in Maintenance and Reli
 Driven by technological innovation, I am constantly exploring the intersection of engineering and data. My current focus includes Data Science, Artificial Intelligence, Machine Learning, and Computational Modeling. I leverage tools like Python, MATLAB, and C, alongside Agile methodologies, to drive R&D initiatives and automate processes.
 
 Whether it is discussing Automotive Engineering, the Oil & Gas industry, or collaborating on innovative technology projects, feel free to reach out. Let's connect!
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+</div>
+<br><br> 
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
+<br><br>
