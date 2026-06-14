@@ -15,16 +15,19 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="http://lattes.cnpq.br/0778457326754157" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo_Lattes-00509E?style=for-the-badge&logoColor=white" alt="Lattes">
+    <img src="https://img.shields.io/badge/Lattes-004481?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lattes">
   </a>
   <a href="https://www.researchgate.net/profile/Carlos-Barreto-Dos-Santos?ev=hdr_xprf" target="_blank">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate">
   </a>
   <a href="https://scholar.google.com/citations?user=MjM8gjEAAAAJ&hl=pt-BR" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
   </a>
   <a href="https://www.youtube.com/@CarlosDaniel_MTBSE" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://orcid.org/0009-0005-3432-9394" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
   </a>
 </p>
 
