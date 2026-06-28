@@ -63,14 +63,27 @@ Whether it is discussing Automotive Engineering, the Oil & Gas industry, or coll
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdaniel0104&show_icons=true&locale=en&layout=compact" alt="carlosdaniel0104" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosdaniel0104&show_icons=true&locale=en" alt="carlosdaniel0104" /></p>
+---
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdaniel0104&show_icons=true&locale=en&layout=compact" alt="carlosdaniel0104 top langs" />
+</div>
+
+---
+
+<div align="center">
+ <img height="150" src="https://github-readme-stats.vercel.app/api?username=carlosdaniel0104&show_icons=true&locale=en" alt="carlosdaniel0104 stats" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosdaniel0104&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Gráfico de Atividade de carlosdaniel0104" />
+</div>
 
 ---
 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZ1OHY1amZlbmJ6YW9jOG5hMGt2ZGl5M3NhZjZ6d3ZtMW43aG9hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HmwJlsfa3iIFzAyeSH/giphy.gif" width="350">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJnM2ZmdzU2bzBhcHhrMzlsZ3o2dTdvcHJjcjU3cnUwYmQ5aG1iaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0W7kzguionBKKgsw6C/giphy.gif" width="350">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNpNjNtbDFtZ205YnBqdjhvaTV4ZjZhZThjYXl0a296aHB4Y2MwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HY61V3hsKYne0/giphy.gif" width="350">
   <br><br>
 </div>
