@@ -63,6 +63,8 @@ Whether it is discussing Automotive Engineering, the Oil & Gas industry, or coll
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   <br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdaniel0104&show_icons=true&locale=en&layout=compact" alt="carlosdaniel0104" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosdaniel0104&show_icons=true&locale=en" alt="carlosdaniel0104" /></p>
 
 ---
 
